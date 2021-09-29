@@ -46,6 +46,7 @@ public class MyMain {
                     }
                 }
             }
+            sixcount = 0;
         }
         count = (count / 100);
         return count;
@@ -68,6 +69,7 @@ public class MyMain {
                     }
                 }
             }
+            sixcount = 0;
         }
         count = (count / 100);
         return count;
